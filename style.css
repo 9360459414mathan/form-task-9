@@ -1,0 +1,88 @@
+body h4{
+	text-align:center;
+	color:blue;
+
+}
+
+
+hr{
+	color:blue;
+
+}
+h1{
+	text-align:center;
+	color:blue;
+	
+}
+ h3{
+		<div class="float6">
+	<h3>Jun'12-May'15</h3>
+
+	</div>
+
+	color:blue;
+	
+}
+
+h5{
+	text-align:center;
+}
+
+.float{
+	float:right;
+}
+
+.float1{
+	float:right;
+
+}
+
+.float3{
+	background-color:lightblue;
+	
+	margin:auto;
+
+}
+
+.float4{
+	margin:auto;
+	background-color:lightblue;
+	
+}
+
+.float5{
+	background-color:lightblue;
+	text-align:left;
+}
+
+
+.eee{
+	float:right;
+}
+
+
+
+.float6{
+	float:right;
+	margin:auto;
+	color:black;
+}
+
+
+.eee{
+	float:right;
+	color:black;
+}
+
+
+hr{
+	background-color:lightblue;
+	height:5px;
+
+
+.bom{
+
+		background-color:lightblue;
+		text-align:center;
+		padding:0 30px 0 30px;
+}
